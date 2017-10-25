@@ -14,7 +14,7 @@ In order for the authorization component of this app to work, it needs to be reg
 This includes enabling the "Google+ API" on the Google API Console Dashboard.
 
 ### Steps
-
+###
 - Fork and clone the repo
 - Run `npm install`
 - In the root directory, create a .env file and place the following: 
